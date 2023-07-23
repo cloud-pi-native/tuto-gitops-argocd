@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/dnum-mi/gitops-tutorial-1.git
+    repoURL: https://github.com/cloud-pi-native/tuto-gitops-argocd.git
     targetRevision: HEAD
     path: dev
   destination: 
