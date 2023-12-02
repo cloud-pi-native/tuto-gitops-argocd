@@ -19,7 +19,7 @@ spec:
       #- image: hashicorp/http-echo
       #- image: odeo/rootless-nginx
       #- image: quay.io/powercloud/http-echo
-      - image: nginxinc/nginx-unprivileged:mainline-perl # arm compatible
+      - image: nginxinc/nginx-unprivileged:mainline # arm compatible
       #- image: docker.io/tobicolin/echo-server-rootless:1.0.0
       #- image: quay.io/redhattraining/hello-world-nginx
       
